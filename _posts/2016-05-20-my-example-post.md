@@ -2,11 +2,46 @@
 layout: post
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+Introducing Serisi - Icon Books
+https://www.introducingbooks.com/ib-title/introducing-psychoanalysis/
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+Syllabus Harvard Psychology
+Kosslyn, S. & Rosenberg, R. (2011) Introducing Psychology: Brain, Person, Group (4th edition). Pearson Learning Solutions, ISBN: 9780558882846				IP       
+Freud, S. (1926/1950) Question of Lay Analysis. New York: Norton		QLA
+Axline, V. (1964) Dibs: In Search of Self.  New York: Ballantine	         		DIBS
+
+
+
+Introducing Levy Straus
+Derrida
+
+Sanat Tarihi
+
+A Very Short Introduction
+
+
+jstor
+
+
+Review Article: Literatür değerlendirme makalesi
+Goodreads
+Science Hub
+
+Dummies
+
+-------
+Arguments
+Sana özel bir harita
+Burjuva muhafazakardır. 
+
+Kings And Generals
+Epic History
+
+Simon Schama - Power Of Art
+Prohibition 
+Civil War
+Planet Earth
+-------
+
+Tiyatro
