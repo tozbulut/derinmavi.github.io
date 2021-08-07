@@ -7,7 +7,7 @@ categories: misc
 
 Stoa Zeno tarafından milattan önce 3. yüzyılın başlarında Kıbrıs'lı Zeno tarafından Atina'da kuruluyor.
 Doğal dünyanın işleyişine yönelik bir bakış açısı geliştirerek kişisel bir etik ve mantıksal çıkarımlar ortaya koyuyorlar.
-Öğretilerinde kutsanmışlık ve mutluluk hali olarak tanımlanabilecek Eudomonia'a ya ulaşmayı hedefliyorlar.
+Öğretilerinde mutluluk hali olarak tanımlanabilecek Eudomonia'a ya ulaşmayı hedefliyorlar.
 Kişi bu yolda anın içerisindeki yaşam tecrübesini kendisini ona nasıl sunuyorsa o şekilde algılıyor.
 Zihninin becerilerini kullanarak *zevk isteği* veya *acıdan kaçma* dürtüleri tarafından *kontrol* edilmiyor bu sayede *doğa'nın düzenine* uygun hareket ediyor.
 Bu sayede kendine ve başkalarına adil davranıyor.
