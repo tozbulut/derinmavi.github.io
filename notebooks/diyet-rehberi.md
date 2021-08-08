@@ -41,3 +41,8 @@ Bir yandan da bu süreci devamlı bir gelişim olarak görüyorum. Birinci önce
 * 07.08.2021 | Züber Fındıklı, Kakaolu Meyve Tatlısı 40gr - 125 kcal | 6.50 TL
 * 07.08.2021 | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
 * 07.08.2021 | Toplam : 577 kcal | 40.90 TL
+* 08.08.2021 | Ikea Dana Biftek Tabağı 470 kcal |
+* 08.08.2021 | Akşam | 4 Adet Sarma - 160 kcal |
+* 08.08.2021 | Akşam | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
+* 08.08.2021 | Toplam : 675 kcal | 
+* 08.08.2021 | Gece  | 
