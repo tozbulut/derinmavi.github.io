@@ -37,12 +37,12 @@ Kalan kalori bütçenizi istediğiniz kadar protein, yağ ve karbonhidratla dold
 Bir yandan da bu süreci devamlı bir gelişim olarak görüyorum. Birinci öncelik kalori tüketimini kısıtlamak. Zamanla protein, yağ, karbonitrat oranlarına ve yiyeceklerin işlenmişliğini azaltma vs. gibi konulara öncelik vereceğim.
 
 ## Yemek Listesi
-* 07.08.2021 | Mr. No Ton Balıklı Çavdar Ekmekli Sanviç - 407 kcal | 20.90 TL
-* 07.08.2021 | Züber Fındıklı, Kakaolu Meyve Tatlısı 40gr - 125 kcal | 6.50 TL
-* 07.08.2021 | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
+* 07.08.2021 | A | Mr. No Ton Balıklı Çavdar Ekmekli Sanviç - 407 kcal | 20.90 TL
+* 07.08.2021 | G | Züber Fındıklı, Kakaolu Meyve Tatlısı 40gr - 125 kcal | 6.50 TL
+* 07.08.2021 | G | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
 * 07.08.2021 | Toplam : 577 kcal | 40.90 TL
-* 08.08.2021 | Ikea Dana Biftek Tabağı 470 kcal |
-* 08.08.2021 | Akşam | 4 Adet Sarma - 160 kcal |
-* 08.08.2021 | Akşam | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
-* 08.08.2021 | Toplam : 675 kcal | 
-* 08.08.2021 | Gece  | 
+* 08.08.2021 | A | Ikea Dana Biftek Tabağı 470 kcal | 27 TL
+* 08.08.2021 | A | 4 Adet Sarma - 160 kcal | 8 TL
+* 08.08.2021 | A | Züber Lokma Fındık Kaptlı - 45 kcal | 13.50 TL
+* 08.08.2021 | Toplam : 675 kcal | 48.50 TL
+* 08.08.2021 | G | Dublex Burger 200gr köfte - 900 apx. kcal | 38.25 TL
