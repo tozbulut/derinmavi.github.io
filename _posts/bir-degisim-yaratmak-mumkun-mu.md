@@ -1,3 +1,6 @@
+thumb: "https://raw.githubusercontent.com/derinmavi183/derinmavi.github.io/master/images/image.png"
+
+
 Çağımızın dünyasında aslında insanın dünyayı ileri götürmek için sıklıkla hepimizin bakış açısıları olabiliyor.
 Bu bakış açıları birbiriyle çelişebilir. Ya da aslında aynı hizmet ediyor olabilir. 
 Basmakalıp bir ideolojiye sahip olmanın temel yanı. Hormonlarıyla bir şeyi takip etmenin daha doğrusu. Aslında bireysel mutlulukla ilgisi var. 
