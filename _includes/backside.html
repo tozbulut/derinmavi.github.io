@@ -1,97 +1,94 @@
 <div class="row align-items-md-stretch py-4">
 
-  <div class="col-md-8">
-    <div class="">
-    <div class="">
-   
-     {% if site.paginate %}
-          {% assign posts = paginator.posts %}
-          {% else %}
-          {% assign posts = site.posts %}
-          {% endif %}
-
-
-          {%- if posts.size > 0 -%}
-          {%- if page.list_title -%}
-            <h2>{{ page.list_title }}</h2>
-          {%- endif -%}
-          <div>
-            {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
-            {%- for post in posts -%}
-            <div class="row mb-5">
-              <div class="col-md-4">
-                Thissss...
+    <div class="col-md-8">
+    
+       {% if site.paginate %}
+            {% assign posts = paginator.posts %}
+            {% else %}
+            {% assign posts = site.posts %}
+            {% endif %}
+  
+  
+            {%- if posts.size > 0 -%}
+            {%- if page.list_title -%}
+              <h2>{{ page.list_title }}</h2>
+            {%- endif -%}
+            <div>
+              {%- assign date_format = site.bootstrap.date_format | default: "%b %-d, %Y" -%}
+              {%- for post in posts -%}
+              <div class="row mb-5">
+                <div class="col-md-4">
+                  <a>  <img src="https://raw.githubusercontent.com/derinmavi183/derinmavi.github.io/master/images/image.png" alt="" class=""></a>
+                </div>
+              <div class="col-md-8">
+                <span class="post-meta2 text-muted">{{ post.date | date: date_format }}</span>
+                <h3>
+                  <a class="post-link2 text-decoration-none" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                  </a>
+                </h3>
+                {%- if site.excerpts.show -%}
+                  {%- if site.excerpts.auto_truncate -%}{{ post.excerpt | truncatewords: 32 }}{%- else -%}{{ post.excerpt }}{%- endif -%}
+                {%- endif -%}
               </div>
-            <div class="col-md-8">
-              <span class="post-meta2 text-muted">{{ post.date | date: date_format }}</span>
-              <h3>
-                <a class="post-link2 text-decoration-none" href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h3>
-              {%- if site.excerpts.show -%}
-                {%- if site.excerpts.auto_truncate -%}{{ post.excerpt | truncatewords: 32 }}{%- else -%}{{ post.excerpt }}{%- endif -%}
-              {%- endif -%}
+              {%- endfor -%}
             </div>
-            {%- endfor -%}
-          </div>
-      </div>
-
-          {% if site.paginate %}
-            <div class="pager">
-              <ul class="pagination">
-              {%- if paginator.previous_page %}
-                <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-              {%- else %}
-                <li><div class="pager-edge">•</div></li>
-              {%- endif %}
-                <li><div class="current-page">{{ paginator.page }}</div></li>
-              {%- if paginator.next_page %}
-                <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-              {%- else %}
-                <li><div class="pager-edge">•</div></li>
-              {%- endif %}
-              </ul>
-            </div>
-          {%- endif %}
-
-          {%- endif -%}
-
-    
-    
-    
+        </div>
+  
+            {% if site.paginate %}
+              <div class="pager">
+                <ul class="pagination">
+                {%- if paginator.previous_page %}
+                  <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+                {%- else %}
+                  <li><div class="pager-edge">•</div></li>
+                {%- endif %}
+                  <li><div class="current-page">{{ paginator.page }}</div></li>
+                {%- if paginator.next_page %}
+                  <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+                {%- else %}
+                  <li><div class="pager-edge">•</div></li>
+                {%- endif %}
+                </ul>
+              </div>
+            {%- endif %}
+  
+            {%- endif -%}
+  
+      
+      
+      
+      
+               
+          
     </div>
     
-             
-        
-  </div>
   
-  </div>
-  
-  
-  
-  
-  <div class="col-md-4">
-    
-    <div class="p-3 mb-3 text-white bg-dark rounded-3">
-          <h2>Bu Blogun Hikayesi</h2>
-          <p>Derin Mavi'nin ismi Deep Blue'dan geliyor. Bugün bir müzede sergilenen Deep Blue, IBM tarafından geliştirilmiş satranç oynayan bir bilgisayardı. Rus satranç...</p>
-            <button class="btn btn-outline-light" type="button">Devamını Oku</button>
-        </div>
-    
-         <div class="p-3 bg-light border rounded-3">
-          <h2>Havadan Sudan</h2>
-          <p>Pek çok düşünürün aforizmalara yönelmesine şaşmamalı. Kimi zaman daha şiirsel kısa sembolik satırlar pek çok şeyi özetleyebiliyor.</p>
-          <a class="btn btn-outline-secondary" href="https://derinmavi.io/kisa-kisa">Devamını Oku</a>
-        </div>
     
     
-    <ul>
-      <li>Bu Blog Hakkında</li>
-      <li>Lisans ve Kullanım Koşulları</li>
-      <li>Arşiv</li>
+    
+    <div class="col-md-4">
       
-    </ul>
+      <div class="p-3 mb-3 text-white bg-dark rounded-3">
+            <h2>Bu Blogun Hikayesi</h2>
+            <p>Derin Mavi'nin ismi Deep Blue'dan geliyor. Bugün bir müzede sergilenen Deep Blue, IBM tarafından geliştirilmiş satranç oynayan bir bilgisayardı. Rus satranç...</p>
+              <button class="btn btn-outline-light" type="button">Devamını Oku</button>
+          </div>
+      
+           <div class="p-3 bg-light border rounded-3">
+            <h2>Havadan Sudan</h2>
+            <p>Pek çok düşünürün aforizmalara yönelmesine şaşmamalı. Kimi zaman daha şiirsel kısa sembolik satırlar pek çok şeyi özetleyebiliyor.</p>
+            <a class="btn btn-outline-secondary" href="https://derinmavi.io/kisa-kisa">Devamını Oku</a>
+          </div>
+      
+      
+      <ul>
+        <li>Bu Blog Hakkında</li>
+        <li>Lisans ve Kullanım Koşulları</li>
+        <li>Arşiv</li>
+        
+      </ul>
+    </div>
+    
   </div>
   
-</div>
