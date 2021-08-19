@@ -2,7 +2,7 @@
 layout: post
 title: "Antik Bir Bakış Açısı: Stoa Okulu"
 thumb: "https://raw.githubusercontent.com/derinmavi183/derinmavi.github.io/master/images/image.png"
-categories: misc
+category: misc
 ---
 
 
