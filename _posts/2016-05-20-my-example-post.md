@@ -1,5 +1,7 @@
 ---
 layout: post
+title: ddd
+category: misc
 ---
 
 Introducing Serisi - Icon Books
