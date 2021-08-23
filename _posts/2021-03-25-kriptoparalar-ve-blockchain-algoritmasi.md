@@ -7,8 +7,6 @@ permalink: kriptoparalar-ve-blockchain
 tags: [Kriptopara, Blockchain, Kriptografi]
 ---
 
-ABD'de popüler olan beğenerek takip ettiğim [Last Week Tonight]() adında bir program var. Programda yorumcu Google Glass'ı örnek göstererek yeni teknolojilere dair yapılan yorumların çok kötü bir şekilde yaşlanabildiğinden bahsediyor. Gerçekten de Google Glass etrafındaki coşkuya rağmen insan teknoloji etkileşiminde takipçilerinin bahsettiği devrimi yapmaktan çok uzak kaldı. 
-
 Son yıllarda ciddi bir ilgi kaynağı haline gelen kriptoparalar hakkında kopan gürültü çok olsa da konu ile ilgili detaylı bilgiye sahip olanların sayısı oldukça az. Bu yazıda kriptoparalar ve blok zinciri uygulaması ile ilgili bazı anahtar konseptlerden bahsetmek istiyorum.
 
 Kriptopara kullanmak için pek fazla detay bilmeye gerek yok. Yine de bu yeni teknolojinin temellerini bilmek önemli. Bir yazıyla bu teknolojinin tüm detaylarını kavramıyor olsak da iyi bir tanışma olabilir. Bu yazıda Blockchain'in işleyişine basit bir açıklama getirirken, etrafında dolaşan delilik halini bir yana bırakıp bu yeni ve devrimsel teknolojiyi anlamaya çalışacağız.
