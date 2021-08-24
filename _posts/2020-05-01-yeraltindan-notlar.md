@@ -4,7 +4,7 @@ date: 2020-05-01
 description: 
 category: Kitap
 permalink: yeraltindan-notlar
-img: https://derinmavi.io/images/n1.jpg
+thumb: https://derinmavi.io/images/n1.jpg
 tags: [Dostoyevski, İnsan, Roman, Psikoloji]
 ---
 
